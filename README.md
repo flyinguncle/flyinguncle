@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @flyinguncle
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-flyinguncle/flyinguncle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m gy
+- 👀 I’m interested in Java
+- 🌱 I’m currently learning Hadoop
+- 📫 How to reach me：2248743680@qq.com
